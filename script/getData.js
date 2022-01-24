@@ -2,8 +2,6 @@ const getData = () => {
     const list = document.querySelector('.cross-sell__list');
     const btn = document.querySelector('.cross-sell__add');
 
-    console.log(btn);
-
     let stack = 4;
     let count = 1;
 
